@@ -9,3 +9,8 @@ body::before {
         width: 50%;
     }
 }
+
+.rounded-circle {
+    width: 128px;
+    height: 128px;
+}
